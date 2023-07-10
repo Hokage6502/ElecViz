@@ -22,3 +22,5 @@ The base tilegram was take from https://pitchinteractiveinc.github.io/tilegrams/
 To View this notebook in action and plotly output open this google collab link
 
 https://colab.research.google.com/github/Hokage6502/ElecViz/blob/main/loksabha_final.ipynb
+
+![newplot (1)](https://github.com/Hokage6502/ElecViz/assets/89737057/f2f92d45-52e0-4544-a565-b05ac560991c)
